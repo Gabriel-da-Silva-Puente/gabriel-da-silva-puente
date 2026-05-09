@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=500&color=6DB33F&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+Gabriel+Puente+%F0%9F%91%8B;Back-end+Developer+em+forma%C3%A7%C3%A3o;Java+%7C+Spring+Boot+%7C+PostgreSQL;L%C3%B3gica+%2B+Seguran%C3%A7a+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=500&color=6DB33F&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+Gabriel+Puente+%F0%9F%91%8B;Back-end+Developer+em+Forma%C3%A7%C3%A3o;Java+%7C+Spring+Boot+%7C+PostgreSQL;L%C3%B3gica+%2B+Seguran%C3%A7a+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <br>
@@ -67,6 +67,12 @@
 | **Funcionalidades** | CRUD de condôminos e veículos, agendamento com regras de conflito, controle de disponibilidade |
 | **Diferencial** | Validações de negócio robustas, tratamento de exceções customizado, modelagem relacional normalizada |
 | **Status** | 🟢 Em desenvolvimento |
+
+<div align="center">
+  <a href="https://github.com/rikkuGotti/UPX3">
+    <img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-6DB33F?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório"/>
+  </a>
+</div>
 
 ---
 
