@@ -108,7 +108,6 @@
 
 <div align="center">
   
-  *"Primeiro você aprende as regras. Depois aprende a validá-las."* ☕
   
   <br>
   
